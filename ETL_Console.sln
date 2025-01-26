@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL_Console", "ETL_Console\ETL_Console.csproj", "{A8F2F594-B100-4DB9-A8C3-A35647D16327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL_Lib", "ETL_Lib\ETL_Lib.csproj", "{4A082252-651C-4B4C-A2E6-324750E38BE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8F2F594-B100-4DB9-A8C3-A35647D16327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8F2F594-B100-4DB9-A8C3-A35647D16327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8F2F594-B100-4DB9-A8C3-A35647D16327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A082252-651C-4B4C-A2E6-324750E38BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A082252-651C-4B4C-A2E6-324750E38BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A082252-651C-4B4C-A2E6-324750E38BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A082252-651C-4B4C-A2E6-324750E38BE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
