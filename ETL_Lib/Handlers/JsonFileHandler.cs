@@ -3,7 +3,7 @@ using System.Text;
 using System.Text.Json;
 using TextTwistEtl.Logging;
 
-namespace TextTwistEtl.Handlers
+namespace ETL_Lib.Handlers
 {
     public static class JsonFileHandler
     {

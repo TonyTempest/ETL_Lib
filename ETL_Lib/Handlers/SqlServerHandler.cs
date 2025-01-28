@@ -4,9 +4,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 
-namespace TextTwistEtl.Handlers
+namespace ETL_Lib.Handlers
 {
     public class SQLServerHandler
     {

@@ -2,7 +2,7 @@
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace TextTwistEtl.Handlers;
+namespace ETL_Lib.Handlers;
 public static class CsvHandler
 {
     /// <summary>
